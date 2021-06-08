@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/info_rejestrator.dir/main.c.o  -o info_rejestrator 
