@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="rejestrator" targetName="rejestrator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f812e580-1b78-4a73-85e0-35583b828a4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nq58lmiEkEVHHGDTdNoP4P3ly3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="rejestrator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rejestrator" TARGET_NAME="rejestrator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="rejestrator" RUN_TARGET_NAME="rejestrator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f812e580-1b78-4a73-85e0-35583b828a4e" name="Default Changelist" comment="" />
+      <created>1612104622575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612104622575</updated>
+      <workItem from="1612104624356" duration="1618000" />
+      <workItem from="1612164006208" duration="7555000" />
+      <workItem from="1612171855080" duration="5071000" />
+      <workItem from="1612193427179" duration="1836000" />
+      <workItem from="1612251819729" duration="1957000" />
+      <workItem from="1612279607304" duration="6097000" />
+      <workItem from="1612333522276" duration="12589000" />
+      <workItem from="1612357022802" duration="10643000" />
+      <workItem from="1612374366556" duration="946000" />
+      <workItem from="1612429797619" duration="6440000" />
+      <workItem from="1612443267081" duration="729000" />
+      <workItem from="1612454934046" duration="5891000" />
+      <workItem from="1612507053408" duration="552000" />
+      <workItem from="1612507784094" duration="2882000" />
+      <workItem from="1612533146240" duration="5428000" />
+      <workItem from="1612544183850" duration="285000" />
+      <workItem from="1612602293287" duration="4039000" />
+      <workItem from="1612624716537" duration="1537000" />
+      <workItem from="1612703397811" duration="3040000" />
+      <workItem from="1612850527549" duration="27000" />
+      <workItem from="1613546328428" duration="6826000" />
+      <workItem from="1613565658966" duration="11598000" />
+      <workItem from="1623144524029" duration="1139000" />
+      <workItem from="1623146075013" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="296" key="Github.ShareDialog" timestamp="1623146485983">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="568" y="296" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1623146485983" />
+    <state x="443" y="83" width="537" height="626" key="Github.UntrackedFilesDialog" timestamp="1623146534329">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="443" y="83" width="537" height="626" key="Github.UntrackedFilesDialog/67.27.1299.741@67.27.1299.741" timestamp="1623146534329" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1623146742813">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1623146742813" />
+  </component>
+</project>
